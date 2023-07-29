@@ -14,48 +14,20 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
+    title: "Cleartrip",
     position: "Software Engineer",
-    time: "2022 - Present",
-    location: "Atlanta",
-    description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
-    tech: [
-      "Angular",
-      "Python",
-      "GCP",
-      "Git",
-      "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
-    ],
+    time: "Nov 2021 - Present",
+    location: "Bengaluru",
+    description: "I will add the description later",
+    tech: ["React", "Node", "MongoDB", "SpringBoot", "VertX"],
   },
   {
-    title: "Facebook",
+    title: "TFB",
     position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    time: "Aug 2021 - Nov 2021",
+    location: "WFH",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
-  },
-  {
-    title: "Amazon",
-    position: "Software Engineer",
-    time: "2016 - 2020",
-    location: "Seattle",
-    description:
-      "Data Engineer for store front. Built data pipelines with Spark and Airflow. Saw Bezos one time. He said he liked my paintings. I said I liked his hair.",
-    tech: [
-      "Java",
-      "Python",
-      "S3",
-      "RDS",
-      "Redshift",
-      "PySpark",
-      "HDFS",
-      "Apache Airflow",
-    ],
+      "Full Stack Engineer. Created a service from scratch to handle flight booking system. Also played some ping pong. It was fun.",
+    tech: ["React", "Node", "MOngoDB", "Springboot"],
   },
 ];
